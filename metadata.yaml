@@ -1,0 +1,35 @@
+_repo: '---------------_36049'
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Gratsiatos, Paulos
+    alias: Γρατσιάτος, Παύλος
+    gutenberg_agent_id: '32924'
+    url: http://www.gutenberg.org/2009/agents/32924
+covers:
+- cover_type: archival
+  image_path: 36049-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: ''
+gutenberg_issued: '2011-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36049'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Cosmology -- Early works to 1800'
+- !lcc 'PA'
+title: Τίμαιος, Τόμος Β
+url: http://www.gutenberg.org/ebooks/36049
